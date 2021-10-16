@@ -10,4 +10,4 @@ The implementation comprised of 4 stages:
 - Compressing the Indexes: Gamma code and Variable Byte
 - Mistake Correction : Using Bigram with Jaccard and Edit Distance
 
-At the end, the engine was given queries based on tf-idf using InC-Itc
+At the end, the engine was given queries based on tf-idf using Inc-Itc
